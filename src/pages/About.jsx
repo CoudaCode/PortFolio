@@ -3,10 +3,8 @@ import TestimonialItem from "../components/TestimonialItem";
 import Service from "../components/Service";
 export default function About() {
   const spokenLanguages = [
-    { language: "French", level: "Fluent" },
-    { language: "English", level: "Advanced" },
-    { language: "Spanish", level: "Intermediate" },
-    { language: "German", level: "Beginner" },
+    { language: "Francais", level: "Langue Maternelle" },
+    { language: "English", level: "Intermediare" },
   ];
   const interests = ["Musique", "Basketball", "Mangas", "Jeux vidéos"];
   const advantages = ["Disponible", "Assidu", "Autodidacte", "Attentif"];
